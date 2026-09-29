@@ -2,7 +2,7 @@
 
 A modular Retrieval-Augmented Generation (RAG) pipeline that answers questions about a collection of PDF documents. (It runs **fully locally**).
 
-## How it works
+## Architecture
 
 ```mermaid
 flowchart LR
