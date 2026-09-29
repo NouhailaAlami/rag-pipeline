@@ -1,6 +1,8 @@
 # RAG Pipeline
 
-A modular Retrieval-Augmented Generation (RAG) pipeline that answers questions about a collection of PDF documents. (It runs **fully locally**).## How it works
+A modular Retrieval-Augmented Generation (RAG) pipeline that answers questions about a collection of PDF documents. (It runs **fully locally**).
+
+## How it works
 
 ```mermaid
 flowchart LR
