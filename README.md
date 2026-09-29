@@ -63,7 +63,7 @@ RAG_Pipeline/
 
 ## Acknowledgements
 
-The base architecture follows the tutorial by pixegami.
+The base architecture follows the tutorial by **pixegami**.
 
 **What I changed:**
 - Imported my own sample data
